@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">partical2_part_a</string>
+    <string name="Toast_test">Toast</string>
+    <string name="count_text">Count</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello AACS3353</string>
+</resources>
